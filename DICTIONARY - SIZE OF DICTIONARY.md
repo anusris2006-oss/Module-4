@@ -1,4 +1,4 @@
-# Exp.No:16  
+# Exp.No: 4B  
 ## DICTIONARY - SIZE OF DICTIONARY
 
 ---
@@ -22,8 +22,9 @@ To write a Python program to print the size of a dictionary using `getsizeof()` 
 ### PROGRAM
 
 ```
-#Reg.No:212223020002
-#Name: ANUSRI SRIDHAR
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 #Add Your Code Here
 dic1 = {"A": 1, "B": 2, "C": 3} 
 dic2 = {"saveetha": "Raju", "sec": "Nikhil", "Geek3": "Deepanshu"}
