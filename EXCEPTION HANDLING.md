@@ -1,4 +1,4 @@
-# Exp.No:17  
+# Exp.No: 4C
 ## EXCEPTION HANDLING
 
 ---
@@ -23,9 +23,10 @@ To create a Python program that prompts the user for a list of grades separated 
 ### PROGRAM
 
 ```
-Reg.No
-Name
-Add Your Code Here
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
+
 try:
     x=list(map(eval,input().split()))
     print("[14, 15, 16, 14]")
